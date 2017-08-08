@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello i am sachin
+=======
+
+hi git
+>>>>>>> d845b7ec70eec9861838a17e3a15b59ea870ff76
 
